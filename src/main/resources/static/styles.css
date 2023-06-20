@@ -1,0 +1,23 @@
+
+/*.custom-col-left {*/
+/*    !*-ms-flex: 0 0 12%;*!*/
+/*    !*flex: 0 0 12%;*!*/
+/*    !*max-width: 12%;*!*/
+/*    position: relative;*/
+/*    height: calc(100vh - 3px) !important;*/
+/*    padding-top: 20px;*/
+/*}*/
+
+/*.custom-tabs {*/
+/*    width: calc(85vw) !important*/
+/*}*/
+
+/*.col-12 {*/
+/*    width: calc(100vw - 10px) !important*/
+/*}*/
+
+.block-left {
+    width: 12%;
+    float: left;
+    height: 100%;
+}
